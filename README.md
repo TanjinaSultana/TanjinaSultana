@@ -2,10 +2,6 @@
 ![The San Juan Mountains are beautiful!](/image/Add%20a%20heading.jpg "San Juan Mountains")
 
 
-<h2>📊 Current Stats:</h2>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanjinaSultana)](https://git.io/streak-stats)
 
 
 
@@ -32,6 +28,10 @@
   </a>
 </p>
 
+<h2>📊 Current Stats:</h2>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanjinaSultana)](https://git.io/streak-stats)
 
 
 
