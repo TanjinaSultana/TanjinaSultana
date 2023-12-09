@@ -1,5 +1,5 @@
 
-![The San Juan Mountains are beautiful!](/image/readme.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/image/Add%20a%20heading.jpg "San Juan Mountains")
 
 
 <h2>📊 Current Stats:</h2>
