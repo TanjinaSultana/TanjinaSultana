@@ -28,10 +28,10 @@
   </a>
 </p>
 
-<h2>📊 Current Stats:</h2>
+<h2>🚧 Commit Status</h2>
 
+![Tanjina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanjinaSultana&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanjinaSultana)](https://git.io/streak-stats)
 
 
 
@@ -44,6 +44,10 @@
 <br>
 🤝 Eager to collaborate on beginner-friendly projects.
 
+<h2>📊 Current Stats:</h2>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanjinaSultana)](https://git.io/streak-stats)
 
 
 <h2>📫 Connect with me: </h2>
